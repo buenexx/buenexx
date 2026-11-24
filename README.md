@@ -1,59 +1,28 @@
-Sou um desenvolvedor focado em construir soluções de ponta a ponta, desde a modelagem do banco de dados até a entrega da interface final, seja na web ou no mobile. Gosto de trabalhar em projetos que resolvem problemas reais de negócio e tenham impacto direto no resultado das empresas.
+Full stack. Entrego o produto da regra de negócio ao deploy: painel, site, API, app e cobrança.
 
-Tenho experiência colaborando/liderando em **mais de 80 repositórios/projetos privados**, participando de organizações tanto no GitHub quanto no Bitbucket, atuando em diferentes etapas do desenvolvimento e infraestrutura.
+Pego sistema em que o dinheiro, o papel de cada pessoa e o canal de atendimento fazem parte do produto. SaaS com planos e permissão, marketplace e diretório, operação de rede, WhatsApp oficial, pagamentos, CRM e proposta comercial. Quando o produto pede, o app mobile nasce na mesma API.
 
----
+## Stack
 
-## 💻 Minhas Especialidades (Stack Tecnológico)
+PHP 8.3, Laravel, Inertia, React, TypeScript, Tailwind, Expo, Pest, PHPStan, Linux e VPS.
 
-### 🔧 Back-end
-- PHP
-- Laravel
-- APIs RESTful
-- Arquitetura MVC
+## Trabalhos
 
-### 🎨 Front-end Web
-- React
-- Next.js
-- Inertia.js
-- Tailwind CSS
+**PromoNiver.** Marketplace de campanhas de aniversário: pedido que vira conversa, planos com teto de uso e página pública com SEO.
 
-### 📱 Mobile
-- React Native
-- Expo
+**Frankstone.** Operação da franqueadora: competência, folha, WhatsApp oficial, conta e pagamentos, e o app da unidade.
 
-### 🗄️ Banco de Dados
-- MySQL
-- Modelagem de dados
-- Otimização de queries
+**Clester.** SaaS imobiliário multi-tenant: gestão, cobrança, portais e API.
 
-### ⚙️ Infraestrutura & DevOps
-- Linux (administração e configuração de servidores)
-- Nginx
-- DNS (configuração e troubleshooting)
-- WHM / cPanel
-- Deploy e configuração de ambientes
-- Gerenciamento de VPS e servidores dedicados
+**Pipeline.** Quadro de vendas por projeto, separado do funil de captação.
 
----
+**Money.** Finanças de pessoa, casal ou empresa: carteira compartilhada, cartão, caixinha e partilha.
 
-## 🚀 O que eu busco
+**Mapa das Empresas.** Várias marcas, cada uma um diretório público no mapa, com cota de lead e assinatura.
 
-Tenho interesse em arquitetura de software, desenvolvimento de MVPs escaláveis e em criar experiências fluidas para o usuário final. Gosto de participar desde a ideia até a entrega em produção.
+**Negociaki.** O prestador manda áudio ou texto no WhatsApp e recebe a proposta em PDF.
 
-Também atuo com:
-- Integrações com APIs externas
-- Otimização de performance
-- Estruturação de projetos escaláveis
-- Soluções completas end-to-end
+## Contato
 
----
-
-## 📬 Contato
-
-- **E-mail:** buenofernando2013@gmail.com  
-- **WhatsApp:** [Clique aqui para me chamar](https://wa.me/5547997590657?text=Olá,%20vi%20seu%20perfil%20no%20GitHub)  
-
----
-
-⭐ Sempre aberto para colaborar em novos projetos e desafios interessantes.
+- E-mail: buenofernando2013@gmail.com
+- WhatsApp: [chame aqui](https://wa.me/5547997590657?text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20GitHub)
